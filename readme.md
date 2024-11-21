@@ -2,6 +2,6 @@
 
 yippe :D
 
-'''javascript
+```javascript
 console.log('hello world');
-'''
+```
